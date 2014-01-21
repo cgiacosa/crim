@@ -1,5 +1,5 @@
 Date,Species,Count
-2013-01-05,round goby,15
+2013-01-05,round goby,7
 2013-01-05,sturgeon,2
 2013-01-05,pike,4
 2013-01-06,bass,2
@@ -8,3 +8,4 @@ Date,Species,Count
 2013-01-07,sunfish,1
 2013-01-07,squid,2
 2013-01-08,cod,0
+2013-01-21,pesciolino,28
